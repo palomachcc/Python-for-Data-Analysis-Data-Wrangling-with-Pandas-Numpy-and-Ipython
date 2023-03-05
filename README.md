@@ -2,3 +2,4 @@
 
 
 Wes Mckinney book
+https://github.com/wesm/pydata-book 
